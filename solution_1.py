@@ -1,8 +1,8 @@
 '''
     SARABJET SINGH
-    2249221
+    22049221
     SOLUTION OF QUE 1
-    
+
     '''
 #  The variables for total and average rainfall
 total_rainfall = 0
